@@ -9,7 +9,7 @@ Applications can be: displaying a TODO list, showing notes, or important informa
 
   1\. Execute the following commands from your `MagicMirror/modules` folder:
 ```bash
-git clone https://github.com/Jopyth/MMM-Trello.git # clone this repository
+git clone https://github.com/benliu01/MMM-Trello.git # clone this repository
 cd MMM-Trello # navigate into the folder
 npm install # install dependencies
 ```
